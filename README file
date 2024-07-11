@@ -1,0 +1,23 @@
+ <!-- Login Page -->
+
+This project is a simple login page created by using HTML, CSS, and JavaScript. It includes form field validations and integrates with an open login API. The page is responsive and works well on both web and mobile devices.
+
+ <!-- Features -->
+
+--> Username/email field
+--> Password field
+--> Submit button
+--> Client-side field validations
+--> API integration for authentication
+--> Responsive design
+--> Show/hide password functionality
+--> Remember me checkbox
+--> Loading spinner during the API call
+
+
+ <!-- Instructions -->
+
+1. Clone the repository:
+2. Navigate to the project directory:
+3. Live Demo
+
